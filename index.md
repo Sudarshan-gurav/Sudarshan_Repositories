@@ -5,6 +5,7 @@
        
        file is unformatted uniform stream of byte's called file.
        
+       
 **what is information?**
   
         it is considered as a data which is required by any human being.
@@ -30,18 +31,18 @@
  **SQL ?**
  
       It is considered as the language which is understandable by any DBMS. it is not the general-purpose programming language because it is specially used for database activity.
-      
- #  Working of DBMS ?
+     
+ #  Working of DBMS?
  
-       when we pass the query in mysql language our dbms follow belwo step
-     1.Accept the query in term of sql.
-     
+       when we pass the query in a mysql language our DBMS follow below step
+     1.Accept the query in term of SQL.
+    
      2.parse the query(tokenization)
-     
-     3.decide exicution plan.
-     
-     4.optimise the exiction plan.
-     
+    
+     3.decide execution plan.
+    
+     4.optimise the execution plan.
+    
      5.exicute the query and return the result.
      
   **RDBMS :**
@@ -55,7 +56,7 @@
   
    **About Mysql:**
    
-            MySQL is opensource DBMS.it is easily portable on any operating system. it is lightweight in nature and its support every programming language.it is powered by Oracle.
+            MySQL is open-source DBMS.it is easily portable on any operating system. it is lightweight in nature and its support every programming language.it is powered by Oracle.
             
             
   
