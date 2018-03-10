@@ -36,7 +36,7 @@ MySql syntax :
            );
   
   MySQL INSERT statement is used to insert record(s) or row(s) into a table.
-  Their are two scanario :
+  
   1.if we want to INSERT values for specific columns:
    
  **MySQL Syntax:**
@@ -51,7 +51,7 @@ MySql syntax :
           col1_val,
           col2_val
        );
-  2.
+  2.follow the sequence in which table get created
        
        INSERT INTO table_name
        VALUES 
@@ -59,7 +59,14 @@ MySql syntax :
         col_names 
        );
        
-     
+   3.INSERT multiple values in single query.
+   
+   
+      INSERT INTO table_name
+      VALUES
+      ( insert_row_values ),
+      ( insert_2_row_value);
+      
         
     
     
