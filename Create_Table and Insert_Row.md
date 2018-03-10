@@ -67,7 +67,7 @@
     
    **INSERT VALUES IN TABLES**
    
- '''sql
+
                  INSERT INTO
                    member_details 
                 VALUES
@@ -84,7 +84,7 @@
                    (11, 'gautom', 'nayar', '1144', 'gn@g', 'vimannagar' )
                    
                 ;      
-'''
+
 
 
            INSERT 
@@ -118,7 +118,7 @@
 
 
 
-                  INSERT 
+                INSERT 
                   INTO author 
                   VALUES
                       ( 1,'brian kernighan' ) ,
