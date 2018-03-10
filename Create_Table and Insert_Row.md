@@ -69,53 +69,53 @@
    
       
 
-INSERT INTO
-   member_details 
-VALUES
-   (
-      1 , 'pratik', 'bali', 7757, 'pb@g', 'swarget' 
-   )
-, 
-   (
-      2, 'aakash' , 'hadawle', 8793, 'ah@g', 'yerwada' 
-   )
-, 
-   (
-      3, 'sudarshan', 'gurav', 8765, 'sg@g', 'kothrud' 
-   )
-, 
-   (
-      4, 'swapnil' , 'ingle', 8877, 'si@g', 'kothrud' 
-   )
-, 
-   (
-      5, 'raj', 'rao', 7788, 'ro@g', 'yerwada' 
-   )
-, 
-   (
-      6, 'ram', 'kumar', 9977, 'rk@g', 'swarget' 
-   )
-, 
-   (
-      7, 'rajan', 'sathe', 9988, 'rs@g', 'swarget' 
-   )
-, 
-   (
-      8, 'jasprit', 'bumrah', 5544, 'jb@g', 'kothrud' 
-   )
-, 
-   (
-      9, 'sachin', 'tendulkar', 3366, 'st@g', 'yerwada' 
-   )
-, 
-   (
-      10, 'krishna', 'pawar', 2233, 'kp@g', 'vimannagar' 
-   )
-, 
-   (
-      11, 'gautom', 'nayar', '1144', 'gn@g', 'vimannagar' 
-   )
-;
+                INSERT INTO
+                   member_details 
+                VALUES
+                   (
+                      1 , 'pratik', 'bali', 7757, 'pb@g', 'swarget' 
+                   )
+                , 
+                   (
+                      2, 'aakash' , 'hadawle', 8793, 'ah@g', 'yerwada' 
+                   )
+                , 
+                   (
+                      3, 'sudarshan', 'gurav', 8765, 'sg@g', 'kothrud' 
+                   )
+                , 
+                   (
+                      4, 'swapnil' , 'ingle', 8877, 'si@g', 'kothrud' 
+                   )
+                , 
+                   (
+                      5, 'raj', 'rao', 7788, 'ro@g', 'yerwada' 
+                   )
+                , 
+                   (
+                      6, 'ram', 'kumar', 9977, 'rk@g', 'swarget' 
+                   )
+                , 
+                   (
+                      7, 'rajan', 'sathe', 9988, 'rs@g', 'swarget' 
+                   )
+                , 
+                   (
+                      8, 'jasprit', 'bumrah', 5544, 'jb@g', 'kothrud' 
+                   )
+                , 
+                   (
+                      9, 'sachin', 'tendulkar', 3366, 'st@g', 'yerwada' 
+                   )
+                , 
+                   (
+                      10, 'krishna', 'pawar', 2233, 'kp@g', 'vimannagar' 
+                   )
+                , 
+                   (
+                      11, 'gautom', 'nayar', '1144', 'gn@g', 'vimannagar' 
+                   )
+                ;
 
 
 
