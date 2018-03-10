@@ -1,20 +1,20 @@
-step to install mysql on local machine :
+#step to install mysql on local machine :#
 
- steps: install mysql-server packeage install
+ #steps: install mysql-server packeage install#
    
-   $ sudo apt-get update
+   	$ sudo apt-get update
 
-   $ sudo apt-get install mysql-server
+   	$ sudo apt-get install mysql-server
 	
-       after hiting above tab one window has popup it ask the password.
+   *after hiting above tab one window has popup it ask the password.*
 
-   $ systemctl status mysql.service
+   	$ systemctl status mysql.service
   
- If MySQL is not running, then start it with 
+   *If MySQL is not running, then start it with* 
  
-  $ sudo systemctl start mysql.
+  	$ sudo systemctl start mysql.
 
-  $ mysql -u root -p password 
+  	$ mysql -u root -p password 
 
 
 
