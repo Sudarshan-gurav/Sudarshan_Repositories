@@ -1,6 +1,6 @@
 step to install mysql on local machine :
 
- - install mysql-server packeage install
+ steps: install mysql-server packeage install
    
    $ sudo apt-get update
 
