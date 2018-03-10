@@ -1,4 +1,10 @@
 [github](https://sudarshan-gurav.github.io/mysql/index2)
+## Rule's :
+
+>        follow "Naming-convention"
+>        when we added query in report follow the SQL intendetion.
+>        Test the query properly
+
 ## Database concept :
  we are working in IT so we know the below things.
  
