@@ -34,22 +34,31 @@ MySql syntax :
            .
            col_name data_type contrain
            );
+  
   MySQL INSERT statement is used to insert record(s) or row(s) into a table.
   Their are two scanario :
   1.if we want to INSERT values for specific columns:
    
-   MySQL Syntax:
+ **MySQL Syntax:**
+        
         INSERT INTO table_name 
-        ( col_name1,
+        ( 
+          col_name1,
           col_name2,
         )
        VALUES
        ( 
-        col1_val,
-        col2_val
-        
-      );
-      
+          col1_val,
+          col2_val
+       );
+  2.
+       
+       INSERT INTO table_name
+       VALUES 
+       (
+        col_names 
+       );
+       
      
         
     
