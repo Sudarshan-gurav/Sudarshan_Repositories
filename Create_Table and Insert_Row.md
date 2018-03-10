@@ -67,7 +67,7 @@
     
    **INSERT VALUES IN TABLES**
    
-      '''sql
+ '''sql
                  INSERT INTO
                    member_details 
                 VALUES
@@ -84,9 +84,11 @@
                    (11, 'gautom', 'nayar', '1144', 'gn@g', 'vimannagar' )
                    
                 ;      
-		'''
+'''
+
+
            INSERT 
-              INTO book_stock 
+              	INTO book_stock 
               VALUES 
                     ( 1,'c',10 ) ,
                     ( 2,'c++',20 ) ,
