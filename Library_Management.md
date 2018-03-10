@@ -1,11 +1,16 @@
 
+  ### CREATE TABLE FOR LIBRARY_MANAGEMENT
   
+  **CREATE TABLE FOR LIBRARY_MANAGEMENT*
   
       CREATE DATABASE library_managment;
 
+   **USE DATABASE**
+   
       USE library_managment ;
 
- 
+   **CREATE TABLES FOR LIBRARY_MANAGEMENT**
+   
     CREATE TABLE member_details  
     (
        id INT PRIMARY KEY,
@@ -59,3 +64,5 @@
     
     foreign key (mem_id) references member_details(id)
     ) ;
+    
+   **INSERT INTO TABLE 
