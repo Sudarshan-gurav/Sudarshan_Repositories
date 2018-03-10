@@ -1,4 +1,4 @@
-[github](https://sudarshan-gurav.github.io/mysql/index2)
+
 ## Rule's :
 
 >        follow "Naming-convention".
