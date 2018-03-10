@@ -1,4 +1,4 @@
-[GitHub](https://sudarshan-gurav.github.io/mysql/index2)
+[https://sudarshan-gurav.github.io/mysql/index2]
 ## Database concept :
  we are working in IT so we know the below things.
  
